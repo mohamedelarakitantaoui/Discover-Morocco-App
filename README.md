@@ -1,9 +1,9 @@
-# Discover-Morocco-App
+# discover-morocco-app
 
 
 Here's a suggested title and README for your new project:
 
-**Title**: `Discover Morocco App`
+**Title**: `Discover Morocco App` 
 
 **Description**:  
 Discover the most interesting activities and attractions in cities across Morocco with the **Discover Morocco App**. This mobile application is being developed with **JavaScript**, using **VS Code** for code development and **Android Studio** as the emulator for testing. The backend is being built with **MongoDB**, though this is still in progress. Currently, the project includes user registration, login, and the home page, where future updates will display exciting places to explore in various cities.
