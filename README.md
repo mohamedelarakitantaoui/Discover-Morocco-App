@@ -56,6 +56,4 @@ Roadmap
 
 Contributions are welcome! Please fork the repository and submit a pull request with any feature, fix, or improvement.
 
----
 
-This README is designed to guide contributors and users through the early stages of your project.
